@@ -229,8 +229,11 @@ zynq-low-power-sensor-interface/
 
 ## Authors
 
-**Amogh** — Final Year Engineering Student  
-Department of Electronics / Electrical Engineering
+**Dhanush D Kamath** — Final Year Engineering Student 
+**Amogh Kamath Kondadi** — Final Year Engineering Student  
+**I Prateek Pai** — Final Year Engineering Student  
+Department of Electronics & Communication Engineering Engineering
+**NMAM Institute of Technology Nitte**
 
 ---
 
